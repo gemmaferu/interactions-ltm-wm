@@ -8,4 +8,4 @@ Memory is a crucial cognitive process involving several subsystems: sensory memo
 
 Please cite the following paper if you find this script useful:
 
-TBD
+Bonetti, L., Risgaard Olsen, E., Carlomagno, F., Serra, E., Szabo, S. A., Klarlund, M., Andersen, M. H., Frausing, L., Vuust, P., Brattico, E., Kringelbach, M. L, & Fernández-Rubio, G. (2024). Working memory predicts long-term recognition of auditory sequences: Dissociation between confirmed predictions and prediction errors. _bioRxiv_, 2024-09. [https://doi.org/10.1101/2024.09.20.614110]([url](https://doi.org/10.1101/2024.09.20.614110))
